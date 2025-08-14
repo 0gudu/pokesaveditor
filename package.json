@@ -1,0 +1,31 @@
+{
+  "name": "pokesaveditor",
+  "version": "1.0.0",
+  "description": "A friendly way to modify your pokemon save data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0gudu/pokesaveditor.git"
+  },
+  "keywords": [
+    "pokemon",
+    "save",
+    "editor",
+    ".sav",
+    "pokemon-blue",
+    "pokemonsave",
+    "save-modifier"
+  ],
+  "author": "0gudu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0gudu/pokesaveditor/issues"
+  },
+  "homepage": "https://github.com/0gudu/pokesaveditor#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
